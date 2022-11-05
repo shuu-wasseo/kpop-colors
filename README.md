@@ -9,6 +9,8 @@ exceptions made:
 - loona
     - yves (light remains at 25%)
     - olivia hye (saturation remains at 0%)
+- tripleS
+    - knk/naky (saturation remains at 20%)
 
 ## sources
 [loona color database](https://docs.google.com/spreadsheets/d/101dgHkOonpbhIw5LFUObFS-SRo2d85WkCex4NtjW6Lg/edit) by u/paper-mantis on Reddit
