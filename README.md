@@ -5,7 +5,7 @@ the "normal" object contains hex codes of the colors taken directly from the sou
 
 the "sl" object contains altered hex codes, with the saturation raised to 100% and light raised to 50%. for colors with light values above 50%, the light values were not altered.
 
-exceptions made:
+exceptions made for "sl" object:
 - loona
     - yves (light remains at 25%)
     - olivia hye (saturation remains at 0%)
