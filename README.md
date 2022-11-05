@@ -18,4 +18,4 @@ exceptions made for "sl" object/list:
 ## sources
 [loona color database](https://docs.google.com/spreadsheets/d/101dgHkOonpbhIw5LFUObFS-SRo2d85WkCex4NtjW6Lg/edit) by u/paper-mantis on Reddit
 
-[tripleS profiles](https://namu.wiki/edit/tripleS?section=2)
+[tripleS profiles](https://namu.wiki/edit/tripleS?section=2) on namuwiki
