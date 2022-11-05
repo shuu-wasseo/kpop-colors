@@ -1,0 +1,30 @@
+{
+    "normal" : {
+        "heejin" : "ec008c",
+        "hyunjin" : "ffcc00",
+        "haseul" : "00a651",
+        "yeojin" : "f46f1f",
+        "vivi" : "ff98b4",
+        "kimlip" : "e41a3e",	
+        "jinsoul" : "1424b0",	
+        "choerry" : "5c2c92",
+        "yves" : "7e002f",
+        "chuu" : "f6907e",
+        "gowon" : "30c39c",
+        "oliviahye" : "8f8f8f"
+    },
+    "sl" : {
+        "heejin" : "fc0099",
+        "hyunjin" : "ffcc00",
+        "haseul" : "00ff7b",
+        "yeojin" : "ff6e14",
+        "vivi" : "ff98b4",
+        "kimlip" : "ff002f",	
+        "jinsoul" : "0019ff",	
+        "choerry" : "7700ff",
+        "yves" : "80002f",
+        "chuu" : "ff8a75",
+        "gowon" : "00ffbb",
+        "oliviahye" : "8f8f8f"
+    }
+}
