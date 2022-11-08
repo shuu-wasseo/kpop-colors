@@ -7,6 +7,7 @@ the "sl" object contains altered hex codes, with the saturation raised to 100% a
 
 exceptions made for "sl" object:
 - loona
+    - haseul (saturation remains at 33%)
     - yves (light remains at 25%)
     - olivia hye (saturation remains at 0%)
 - tripleS
