@@ -1,11 +1,14 @@
 # kpop-colors
-a kpop color database. every json file will have one "normal" object and one "sl" object,
+a kpop color database. 
 
-the "normal" object contains hex codes of the colors taken directly from the source.
+every json file will have one "normal" object and one "sl" object,
+every toml file will have one "normal" list and one "sl" list.
 
-the "sl" object contains altered hex codes, with the saturation raised to 100% and light raised to 50%. for colors with light values above 50%, the light values were not altered.
+the "normal" object/list contains hex codes of the colors taken directly from the source.
 
-exceptions made for "sl" object:
+the "sl" object/list contains altered hex codes, with the saturation raised to 100% and light raised to 50%. for colors with light values above 50%, the light values were not altered.
+
+exceptions made for "sl" object/list:
 - loona
     - haseul (saturation remains at 33%)
     - yves (light remains at 25%)
@@ -16,4 +19,4 @@ exceptions made for "sl" object:
 ## sources
 [loona color database](https://docs.google.com/spreadsheets/d/101dgHkOonpbhIw5LFUObFS-SRo2d85WkCex4NtjW6Lg/edit) by u/paper-mantis on Reddit
 
-[tripleS profiles](https://discord.com/channels/968385909730971668/968391636583337984) (join the discord server [here](https://discord.gg/triplescosmos))
+[tripleS profiles](https://namu.wiki/edit/tripleS?section=2) on namuwiki
