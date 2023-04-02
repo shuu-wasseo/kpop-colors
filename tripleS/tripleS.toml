@@ -9,7 +9,9 @@ normal = [
     ["gyb", "ffe3e2"],
     ["ked", "ffc931"],
     ["sdh", "fb98dc"],
-    ["ktn", "ffe000"]
+    ["ktn", "ffe000"],
+    ["kyj", "5873fd"],
+    ["hnt", "ff953f"]
 ]
 sl = [
     ["ysy", "22aeff"],
@@ -22,5 +24,7 @@ sl = [
     ["gyb", "ffe3e2"],
     ["ked", "ffc931"],
     ["sdh", "ff94dd"],
-    ["ktn", "ffe000"]
+    ["ktn", "ffe000"],
+    ["kyj", "5773ff"],
+    ["hnt", "ff953f"]
 ]
