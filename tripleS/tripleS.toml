@@ -11,7 +11,8 @@ normal = [
     ["sdh", "fb98dc"],
     ["ktn", "ffe000"],
     ["kyj", "5873fd"],
-    ["hnt", "ff953f"]
+    ["hnt", "ff953f"],
+    ["psh", "1222b5"]
 ]
 sl = [
     ["ysy", "22aeff"],
@@ -26,5 +27,6 @@ sl = [
     ["sdh", "ff94dd"],
     ["ktn", "ffe000"],
     ["kyj", "5773ff"],
-    ["hnt", "ff953f"]
+    ["hnt", "ff953f"],
+    ["psh", "0014c7"]
 ]
